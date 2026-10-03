@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of mondayti/flarum-force-login.** Not for installation: use [Packagist](https://packagist.org/packages/mondayti/flarum-force-login) or the [upstream repository](https://github.com/mondayti/flarum-force-login).
 
-**0** versions archived · Latest: [`1.0.6-stable`](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.6-stable)
+**6** versions archived · Latest: [`1.0.6-stable`](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.6-stable)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.1-stable` | 2021-04-06 | `>=0.1.0-beta.13 <=0.1.0` | [Browse](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.1-stable) |
+| `1.0.2-stable` | 2021-04-06 | — | [Browse](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.2-stable) |
+| `1.0.3-stable` | 2021-04-07 | — | [Browse](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.3-stable) |
+| `1.0.4-stable` | 2021-04-07 | — | [Browse](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.4-stable) |
+| `1.0.5-stable` | 2021-04-09 | — | [Browse](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.5-stable) |
+| `1.0.6-stable` | 2021-04-09 | — | [Browse](https://github.com/flarchive/mondayti-flarum-force-login/tree/archive/v1.0.6-stable) |
 
 Catalog entry: [packages/mondayti-flarum-force-login.json](https://github.com/flarchive/archive-index/blob/main/packages/mondayti-flarum-force-login.json)
 
